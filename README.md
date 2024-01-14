@@ -1,4 +1,4 @@
 # EasySymbolicDiff
 ## Sybolic Differential Equation Solver
 
-Solve simple Differential equations usin a tkinter interface and sympy backend
+Solve simple Differential equations using a tkinter interface and sympy backend
